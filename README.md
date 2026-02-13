@@ -36,8 +36,11 @@ Comprehensive platform for veterinary clinics featuring patient management and a
 ---
 
 ## 📊 GitHub Stats
-![Oscar's Stats](https://github-readme-stats.vercel.app/api?username=oscarblanco-software-eng&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarblanco-software-eng&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarblanco-software-eng&show_icons=true&theme=tokyonight&count_private=true" alt="Oscar's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarblanco-software-eng&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
