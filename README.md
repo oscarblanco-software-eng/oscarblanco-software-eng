@@ -1,62 +1,45 @@
-# ¡Hola! Soy Oscar Blanco 👋
+# Hi! I'm Oscar Blanco 👋
 
 ### **Full-Stack Developer | MERN Stack Specialist**
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas que resuelvan problemas reales. Me especializo en el desarrollo de aplicaciones web robustas y escalables utilizando tecnologías modernas como MongoDB, Express, React y Node.js.
+I am a passionate developer dedicated to creating technological solutions that solve real-world problems. I specialize in developing robust and scalable web applications using modern technologies like MongoDB, Express, React, and Node.js.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 💻 Actualmente enfocado en perfeccionar arquitecturas escalables con el **MERN Stack**.
-- 🐾 Creador de **Clinipet**, una plataforma de gestión veterinaria profesional.
-- 🎓 Siempre aprendiendo nuevas herramientas de ingeniería de software y mejores prácticas de código limpio.
-- 📧 ¿Quieres contactarme? ¡Hablemos por (www.linkedin.com/in/oscarblanco-software-eng)
-
+- 💻 Currently focused on perfecting scalable architectures with the **MERN Stack**.
+- 🐾 Creator of **Clinipet**, a professional veterinary management platform.
+- 🎓 Constantly learning new software engineering tools and clean code best practices.
+- 📧 Want to reach out? Let's talk on [LinkedIn](https://www.linkedin.com/in/oscarblanco-software-eng)
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Tech Stack
 
-| Área | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React, HTML5, CSS3, JavaScript (ES6+) |
 | **Backend** | Node.js, Express.js |
-| **Base de Datos** | MongoDB, Mongoose |
-| **Herramientas** | Git, GitHub, VS Code, Postman |
+| **Database** | MongoDB, Mongoose |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
-## 📈 Mis Proyectos Destacados
+## 📈 Featured Projects
 
-###[ [🐾 (https://github.com/oscarblanco-software-eng/oscarblanco-software-eng.git)
-Plataforma integral para clínicas veterinarias con gestión de pacientes y citas.
-- **Tecnologías:** React, Node.js, MongoDB.
-- **Highlight:** Implementación de una API RESTful y diseño responsivo profesional.
-
----
-
-## 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+### [🐾 Clinipet Management Platform](https://github.com/oscarblanco-software-eng/clinipet-management-platform)
+Comprehensive platform for veterinary clinics featuring patient management and appointment scheduling.
+- **Technologies:** React, Node.js, MongoDB.
+- **Highlight:** Implementation of a RESTful API and professional responsive design.
 
 ---
 
-## 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oscarblanco-software-eng)
+## 📊 GitHub Stats
+![Oscar's Stats](https://github-readme-stats.vercel.app/api?username=oscarblanco-software-eng&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarblanco-software-eng&layout=compact&theme=radical)
 
+---
 
-<!--
-**oscarblanco-software-eng/oscarblanco-software-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarblanco-software-eng)
