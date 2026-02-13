@@ -35,12 +35,19 @@ Comprehensive platform for veterinary clinics featuring patient management and a
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Technical Skills & Proficiency
+
 <p align="left">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=oscarblanco-software-eng&show_icons=true&theme=radical" alt="Oscar's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=oscarblanco-software-eng&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Main_Stack-MERN-blue?style=for-the-badge" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/Total_Projects-1_Featured-green?style=for-the-badge" alt="Projects" />
 </p>
+
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
 
