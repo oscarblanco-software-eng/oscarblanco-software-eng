@@ -37,10 +37,10 @@ Comprehensive platform for veterinary clinics featuring patient management and a
 
 ## 📊 Technical Skills & Proficiency
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Main_Stack-MERN-blue?style=for-the-badge" alt="Main Stack" />
-  <img src="https://img.shields.io/badge/Total_Projects-1_Featured-green?style=for-the-badge" alt="Projects" />
-</p>
+### 🛠️ Tech Stack & Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
