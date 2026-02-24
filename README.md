@@ -2,7 +2,7 @@
 
 ### **Full-Stack Developer | MERN Stack Specialist**
 
-I am a passionate developer dedicated to creating technological solutions that solve real-world problems. I specialize in developing robust and scalable web applications using modern technologies like MongoDB, Express, React, and Node.js.
+I am a passionate developer dedicated to creating technological solutions that solve real-world problems. I specialize in developing robust and scalable web applications using modern technologies like MySQL, Express, React, and Node.js.
 
 ---
 
